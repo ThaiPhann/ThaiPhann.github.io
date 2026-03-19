@@ -8,8 +8,6 @@ My AI Bot is a modern chatbot application leveraging Retrieval-Augmented Generat
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ThaiPhann/)
 
-<center><img src="images/nlp.png"/></center>
-
 ---
 ### Realtime Chat Web Application (Messenger-like)
 
@@ -17,16 +15,12 @@ A real-time chat web application inspired by modern messaging platforms like Mes
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ThaiPhann/)
 
-<center><img src="images/nlp.png"/></center>
-
 ---
 ### Mini Search Engine
 
 A mini search engine integrated with a web crawler designed to collect and index data from multiple websites. The crawler automatically fetches and parses HTML content, extracts relevant information, and stores it for fast retrieval. The search engine component provides keyword-based search with basic ranking and filtering capabilities. This project demonstrates understanding of data scraping, indexing strategies, and building efficient search functionality.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ThaiPhann/Web-Crawler-Tool)
-
-<center><img src="images/nlp.png"/></center>
 
 ---
 ## Filmed by me
