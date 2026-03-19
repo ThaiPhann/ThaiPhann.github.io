@@ -13,7 +13,7 @@ My AI Bot is a modern chatbot application leveraging Retrieval-Augmented Generat
 
 A real-time chat web application inspired by modern messaging platforms like Messenger. The system supports instant messaging using WebSocket technology, allowing users to send and receive messages without page reloads. Key features include user authentication, online/offline status tracking, message history storage, and responsive UI design. The application is built with a scalable architecture to handle concurrent users efficiently, ensuring low latency and smooth communication experience.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ThaiPhann/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ThaiPhann/flask-chat-app)
 
 ---
 ### Mini Search Engine
